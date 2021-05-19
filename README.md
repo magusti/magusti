@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Manolo
 - 👀 I’m interested in Computer Visión, multimedia, interaction, inmmersive systems, videoconsole programming, ...
-- 🌱 I’m currently grouping some of my developmets for my students
+- 🌱 I’m currently grouping some of my developmets for my students and also open projects for investigation
 <!-- 
 - 💞️ I’m looking to collaborate on ...
+-->
 - 📫 How to reach me? Write an email to magusti @ disca.upv.es and give me some time to answer you :-)
 
 <!---
